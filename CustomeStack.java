@@ -58,4 +58,8 @@ public class CustomeStack {
 			return top.data;
 		}
 	}
+	
+	public void printStackNew() {
+	
+	}
 }
